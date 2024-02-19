@@ -1,2 +1,9 @@
-# epigenetic_contributions_to_cvd_risk_prediction
-Cardiac Troponin - Circulation
+# Epigenetic Contributions to Clinical Risk Prediction of Cardiovascular Disease
+
+Background: Cardiovascular disease (CVD) is among the leading causes of death worldwide. The discovery of new omics biomarkers could help to improve risk stratification algorithms and expand our understanding of molecular pathways contributing to the disease. Here, ASSIGN-a cardiovascular risk prediction tool recommended for use in Scotland-was examined in tandem with epigenetic and proteomic features in risk prediction models in ≥12 657 participants from the Generation Scotland cohort.
+
+Methods: Previously generated DNA methylation-derived epigenetic scores (EpiScores) for 109 protein levels were considered, in addition to both measured levels and an EpiScore for cTnI (cardiac troponin I). The associations between individual protein EpiScores and the CVD risk were examined using Cox regression (ncases≥1274; ncontrols≥11 383) and visualized in a tailored R application. Splitting the cohort into independent training (n=6880) and test (n=3659) subsets, a composite CVD EpiScore was then developed.
+
+Results: Sixty-five protein EpiScores were associated with incident CVD independently of ASSIGN and the measured concentration of cTnI (P<0.05), over a follow-up of up to 16 years of electronic health record linkage. The most significant EpiScores were for proteins involved in metabolic, immune response, and tissue development/regeneration pathways. A composite CVD EpiScore (based on 45 protein EpiScores) was a significant predictor of CVD risk independent of ASSIGN and the concentration of cTnI (hazard ratio, 1.32; P=3.7×10-3; 0.3% increase in C-statistic).
+
+Conclusions: EpiScores for circulating protein levels are associated with CVD risk independent of traditional risk factors and may increase our understanding of the etiology of the disease.
