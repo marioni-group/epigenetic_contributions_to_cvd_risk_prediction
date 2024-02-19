@@ -1,0 +1,8 @@
+{
+  "##_COMMENT1": "Input - prepped file with EpiScores, ASSIGN, sex, age, as well as time to event",
+  "input": "/Volumes/marioni-lab/Ola/Lab/EpiScores/Cox_episcores_composite/cox_covars_episcores_W3_W4.csv",
+  "output": "/Volumes/marioni-lab/Ola/Lab/EpiScores/Cox_episcores_composite/",
+  "run": "protein_episcores_transformed_assign_rank_transformed_W3_W4",
+  "include_set": 0,
+  "transform": "rank"
+}
